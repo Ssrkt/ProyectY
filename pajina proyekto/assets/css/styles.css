@@ -29,14 +29,14 @@
     width:100%;
     display:flex;
     justify-content:space-between;
-    top:0
+    top:0;
     background-image: url("/assets/imgs/mywallpaper.png");
     filter: blur(4px);
-  -webkit-filter: blur(4px);
-  height: 10%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+    -webkit-filter: blur(4px);
+    height: 10%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 
