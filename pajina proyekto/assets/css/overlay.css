@@ -8,6 +8,8 @@
     background-image: url("/assets/imgs/mywallpaper.png");
     background-size: cover;
     position: relative;
+
+    
 }
 
 .container-1 .hero {
@@ -18,6 +20,8 @@
     display: flex;
     justify-content: center;
     position: relative;
+
+    
 }
 
 .container-1 .hero .navbar {
@@ -30,7 +34,9 @@
     background-attachment: fixed;
     position: absolute;
     z-index: 99;
+    
 }
+
 
 .container-1 .hero .navbar img {
     width: 45px;
@@ -47,6 +53,8 @@
     list-style: none;
     overflow: hidden;
     position: relative;
+
+    
 }
 
 .container-1 .hero .navbar ul li {
@@ -56,6 +64,7 @@
     padding: 0px 10px;
     display: flex;
     position: relative;
+    
 }
 
 .container-1 .hero .navbar ul li a {
@@ -68,6 +77,9 @@
     font-size: 14px;
     font-weight: 700;
     position: relative;
+    
+
+
 }
 .container-1 .hero .overlay {
     width: auto;
@@ -80,6 +92,7 @@
     align-items: center;
     align-self: center;
     position: absolute;
+    
 }
 
 
@@ -107,18 +120,8 @@
     letter-spacing: 1px;
     text-align: center;
     position: relative;
+
+    
 }
 
-/*es el rectangulo aunq diga footer no se pq no deja cambiarlo :nerd:*/
-.footer {
-    width: 100%;
-    height: 60px;
-    background: #181818;
-    color: #C8C8C8;
-    font-size: 12px;
-    font-weight: 700;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
-}
+
